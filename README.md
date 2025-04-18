@@ -11,3 +11,5 @@ Hey, I'm Satyanarayana !
 🔍 I'm actively seeking opportunities to contribute to open-source projects and collaborate with fellow developers.
 
 <img align="centre" alt="GIF" src="https://github.com/Satyanarayana-dasari/Satyanarayana-dasari/blob/103999044bf76b270ed36a17aeca8c32ac5cc478/dev%20code.gif?raw=true" width="300" height="300" />
+## 💻 Tech Stack :
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java]() !
