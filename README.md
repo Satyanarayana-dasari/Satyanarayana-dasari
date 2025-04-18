@@ -1,7 +1,10 @@
-Hey, I'm Satyanarayana !<br><br> 🎓 IT Graduate from SRM University<br><br>🚀 Python / Java Programmer | SQL Developer | Machine Learning enthusiast | JavaScript Dev | Data Analyzer<br><br>📍 Right now, I'm focusing on Learning Java and expanding my knowledge in the exciting fields of AI, Deep Learning, LAM.<br><br>📈 Working on Myself to be Full-Stack Dev / Machine Learning Engineer / Data Scientist !<br><br>🔍 I'm actively seeking opportunities to contribute to open-source projects and collaborate with fellow developers.<br><br>To reach me : Mail - satya.dasari232@gmail.com
+Hey, I'm Satyanarayana !<br><br> 🎓 IT Graduate from V S M COLLEGE OF ENGINEERING<br><br>🚀 Python / Java Programmer | SQL Developer | Machine Learning enthusiast | JavaScript Dev | Data Analyzer<br><br>📍 Right now, I'm focusing on Learning Java and expanding my knowledge in the exciting fields of AI, Deep Learning, LAM.<br><br>📈 Working on Myself to be Full-Stack Dev / Machine Learning Engineer / Data Scientist !<br><br>🔍 I'm actively seeking opportunities to contribute to open-source projects and collaborate with fellow developers.<br><br>To reach me : Mail - satya.dasari232@gmail.com
 
 <img align="centre" alt="GIF" src="https://github.com/Satyanarayana-dasari/Satyanarayana-dasari/blob/103999044bf76b270ed36a17aeca8c32ac5cc478/dev%20code.gif?raw=true" width="300" height="300" />
+
+
 ## 💻 Tech Stack :
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)
 
 ### Familiar and Worked on :
