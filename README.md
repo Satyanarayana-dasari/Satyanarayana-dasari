@@ -22,3 +22,6 @@ Hey, I'm Satyanarayana !<br><br> 🎓 IT Graduate from V S M COLLEGE OF ENGINEER
 
 ### Random Dev Quote 🧑‍💻
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 📊 Random Data Analyst Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
