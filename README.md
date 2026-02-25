@@ -102,5 +102,5 @@ Built regression model to predict salary based on experience & skills.
 ---
 
 ⭐ “Without data, you're just another person with an opinion.”
-
+⭐ "Turning Data into Meaningful Insights"
 
