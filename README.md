@@ -25,3 +25,82 @@ Hey, I'm Satyanarayana !<br><br> 🎓 IT Graduate from V S M COLLEGE OF ENGINEER
 
 ## 📊 Random Data Analyst Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Satyanarayana Dasari</h1>
+<h3 align="center">📊 Aspiring Data Analyst | SQL • Python • Power BI • Excel</h3>
+
+---
+
+## 🚀 About Me
+
+🎓 IT Graduate (B.Tech - CSE)  
+📊 Passionate about transforming raw data into actionable insights  
+🐍 Strong foundation in Python & SQL  
+📈 Skilled in Data Cleaning, EDA & Dashboard Creation  
+🎯 Currently seeking Data Analyst Intern / Entry-Level opportunities  
+
+⚡ I believe in learning by building real-world projects.
+
+---
+
+## 🛠️ Core Skills
+
+### 📊 Data Analytics
+- SQL (Joins, Group By, Aggregations)
+- Excel (Pivot Tables, Data Cleaning)
+- Power BI (Interactive Dashboards)
+- Data Visualization
+
+### 🐍 Programming
+- Python (Pandas, NumPy, Matplotlib)
+- Basic Machine Learning (Regression)
+
+### 🗄️ Database
+- MySQL
+
+---
+
+## 📌 Featured Projects
+
+🔹 **Sales Performance Dashboard (Power BI)**  
+Analyzed revenue trends, top products & regional performance.
+
+🔹 **Customer Churn Analysis (Python + SQL)**  
+Identified churn factors using EDA & visualization.
+
+🔹 **Employee Salary Prediction (Machine Learning)**  
+Built regression model to predict salary based on experience & skills.
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Satyanarayana-dasari&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Satyanarayana-dasari&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyanarayana-dasari&layout=compact&theme=tokyonight)
+
+---
+
+## 📊 Data Insight Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+📧 satya.dasari232@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/satya  
+
+---
+
+⭐ “Without data, you're just another person with an opinion.”
+
+
